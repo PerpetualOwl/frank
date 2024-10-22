@@ -1,0 +1,40 @@
+/workspaces/frank/BwdFwd.hs:
+  hash: bba0e34e9202456e0e7359c506e793741bf332efbc99d77d86ae515975a1367f
+/workspaces/frank/Compile.hs:
+  hash: 60a2ee7751f2086b7ed18bfd3c4f9610cb1b837e35b0142a02b4ed747f2c6f76
+/workspaces/frank/Debug.hs:
+  hash: 1df89d44a212d1d27fe60c070c6a72e9f7404b27625b15126b58e2b8898c9aa6
+/workspaces/frank/DesugarSyntax.hs:
+  hash: ec89ecac7a595d331e599605199f1e8d3b4ba2477446960bcfa27b792b1b6479
+/workspaces/frank/Frank.hs:
+  hash: 05d43b88dd995b77d6f2f222e149625c1e8661da42804485da55a6f188c705b8
+/workspaces/frank/FreshNames.hs:
+  hash: a94c72827c64c6b9ec194120e8210b22bf946b590ac0e538507fc01f8f44f165
+/workspaces/frank/Parser.hs:
+  hash: 1ec166e1c7e7c768b63c7c20cdf1f97dd1fdb8f5e6271ecb6fae2368a038fc0e
+/workspaces/frank/ParserCommon.hs:
+  hash: f9242c470313eabfbed943d096a2b74aaaa5d6b873eb9e80d4a5b8c47185b66b
+/workspaces/frank/RefineSyntax.hs:
+  hash: 6473b361ecd1fce5747322aa621dab6e6c72c92cf44336a8047bb02824af1c76
+/workspaces/frank/RefineSyntaxCommon.hs:
+  hash: 73217bd52cd250588c5d5e333e0bbe6d5264806f3b7c293a8492718911f1a86c
+/workspaces/frank/RefineSyntaxConcretiseEps.hs:
+  hash: a141d10aa496ea596a4664a06bd8c5538929a91cb433e88e313805f8fe91749e
+/workspaces/frank/RefineSyntaxSubstitItfAliases.hs:
+  hash: aa19341cfeb870cc26a8ce3f9f7b725d1471b06ba4ee5fb92e418b65c671a1ce
+/workspaces/frank/Syntax.hs:
+  hash: 6a791742c9e15786bb9c5d73a5fdb572fe26f4190ab341b8708ad38ab3bebadd
+/workspaces/frank/TypeCheck.hs:
+  hash: 5d0d524fa6b366365cded36586eabca8969ee21882c2a4d99868c6a6d1f31bb5
+/workspaces/frank/TypeCheckCommon.hs:
+  hash: 482af9b3cb251b55f9068783100498105d6d0018177654b6463d9b08c5908d71
+/workspaces/frank/Unification.hs:
+  hash: 0d0609a85ada12ed638168cfbc26e7de7518e66057a91176a93b5b4e87e07aaa
+/workspaces/frank/frank.cabal:
+  hash: 505b335dc75d01eccbf44a752101348a8e294c8fb6ba10f4920fe8e5da6ad878
+/workspaces/frank/shonky/src/Shonky/Renaming.hs:
+  hash: 971780681f61920f92af59dd142c3c4867d9791ce37754b1f1c674f673475bbe
+/workspaces/frank/shonky/src/Shonky/Semantics.hs:
+  hash: 626dd4340aca1393ff3bdb11aeff21e7d9350c6235f7401a67f9194724664a79
+/workspaces/frank/shonky/src/Shonky/Syntax.hs:
+  hash: 8dad5897db2e70907bdfbb3be26f910ed25de6a847f9dc33741f770cb483d4b3
